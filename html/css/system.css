@@ -1,0 +1,9 @@
+/* frontparts/bloc/top_article.tpl */
+.article_movie_figure {
+	overflow: hidden;
+	position: relative;
+}
+.article_movie_figure img {
+	position: absolute;
+	max-width: none;
+}
